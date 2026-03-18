@@ -1,6 +1,6 @@
-# Hi, I'm Chukwuemeka Uche 👋
+## Hey there 👋
 
-I'm a **Full-Stack Developer** passionate about building web and mobile applications that are clean, responsive, and user-friendly.
+I'm Chukwuemeka Uche a **Full-Stack Developer** passionate about building web and mobile applications that are clean, responsive, and user-friendly.
 
 ##  What I'm Working On
 - **Spotnaija** – A dynamic web app for project listings and interactive content  
